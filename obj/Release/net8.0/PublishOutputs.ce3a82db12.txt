@@ -1,0 +1,12 @@
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\webapptest.exe
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\appsettings.json
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\webapptest.dll
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\webapptest.deps.json
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\webapptest.runtimeconfig.json
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\webapptest.pdb
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v-deepak6\Desktop\webapitest\webapptest\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
